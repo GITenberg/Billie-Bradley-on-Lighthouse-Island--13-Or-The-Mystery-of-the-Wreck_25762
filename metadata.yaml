@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3278'
     url: http://www.gutenberg.org/2009/agents/3278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25762#Billie-Bradley-on-Lighthouse-Island--13-Or-The-Mystery-of-the-Wreck
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-06-12'
 gutenberg_type: Text
